@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you :-) 
+Nice to meet you :slightly_smiling_face:
 
 - 🔭 I’m currently a PhD student in AI at Sapienza University of Rome: https://whitemech.github.io/
 - 🌱 I’m currently doing some research on RL and reward specifications through formal logics.
