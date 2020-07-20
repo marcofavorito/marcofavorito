@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub followers](https://img.shields.io/github/followers/marcofavorito?label=Follow%20%40marcofavorito&style=for-the-badge)
+[![GitHub Sponsor](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge)](https://github.com/sponsors/marcofavorito)
+
 Nice to meet you :slightly_smiling_face:
 
 - 🔭 I’m currently a PhD student in AI at Sapienza University of Rome: https://whitemech.github.io/
