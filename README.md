@@ -22,5 +22,5 @@ Nice to meet you :slightly_smiling_face:
 
 <a href="https://sourcerer.io/marcofavorito"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a>
 
-https://profile-summary-for-github.com/user/marcofavorito
+https://profile-summary-for-github.com/user/marcofavorito  
 http://ghv.artzub.com/#user=marcofavorito
