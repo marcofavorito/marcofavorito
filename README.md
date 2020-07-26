@@ -18,7 +18,6 @@ Nice to meet you :slightly_smiling_face:
 <p align="center">
   <img alt="Marco Favorito's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcofavorito&show_icons=true&hide_border=true" />
 </p>
-<div align="center">
 
 <p align="center">
 <a href="https://sourcerer.io/marcofavorito"><img src="https://img.shields.io/badge/Python-1490%20commits-blue.svg" alt=""></a>
