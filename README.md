@@ -14,13 +14,20 @@ Nice to meet you :slightly_smiling_face:
 
 #### GitHub profile analysis:
 
-![Marco Favorito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcofavorito&show_icons=true&hide_border=true)
 
+<p align="center">
+  <img alt="Marco Favorito's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcofavorito&show_icons=true&hide_border=true" />
+</p>
+<div align="center">
+
+<p align="center">
 <a href="https://sourcerer.io/marcofavorito"><img src="https://img.shields.io/badge/Python-1490%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/marcofavorito"><img src="https://img.shields.io/badge/JavaScript-170%20commits-yellow.svg" alt=""></a>
 <a href="https://sourcerer.io/marcofavorito"><img src="https://img.shields.io/badge/C++-148%20commits-pink.svg" alt=""></a>
+</p>
 
-<a href="https://sourcerer.io/marcofavorito"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a>
 
-https://profile-summary-for-github.com/user/marcofavorito  
-http://ghv.artzub.com/#user=marcofavorito
+Other links:
+- Sourcerer profile: [![Sourcerer](https://sourcerer.io/icons/logo-sharing.svg)](https://sourcerer.io/marcofavorito)
+- [Profile Summary for GitHub](https://profile-summary-for-github.com/user/marcofavorito)  
+- [GitHub Visualizer](http://ghv.artzub.com/#user=marcofavorito)
