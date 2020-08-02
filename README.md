@@ -1,7 +1,20 @@
 ### Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/marcofavorito?label=Follow%20%40marcofavorito&style=for-the-badge)
-[![GitHub Sponsor](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge)](https://github.com/sponsors/marcofavorito)
+<p align="center">
+  
+  <a>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/marcofavorito?label=Follow%20%40marcofavorito" />
+  </a>
+  <a href="https://github.com/sponsors/marcofavorito">
+    <img alt="GitHub Sponsor" src="https://img.shields.io/badge/Support%20at-GitHub-blue" />
+  </a>
+</p>
+<p align="center">
+  <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/marcofavorito">
+  <img alt="Keybase BTC" src="https://img.shields.io/keybase/btc/marcofavorito">
+  <img alt="Keybase ZEC" src="https://img.shields.io/keybase/zec/marcofavorito">
+  <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/marcofavorito">
+</p>
 
 Nice to meet you :slightly_smiling_face:
 
