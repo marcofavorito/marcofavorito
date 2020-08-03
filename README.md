@@ -10,10 +10,18 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/marcofavorito">
-  <img alt="Keybase BTC" src="https://img.shields.io/keybase/btc/marcofavorito">
-  <img alt="Keybase ZEC" src="https://img.shields.io/keybase/zec/marcofavorito">
-  <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/marcofavorito">
+  <a href="https://keybase.io/marcofavorito/pgp_keys.asc?fingerprint=d7e224f6596de4d012f335691b17e9636d21c8bf">
+    <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/marcofavorito" />
+  </a>
+  <a href="bitcoin:bc1qsntnewws350d6gt25wc4sxnzfey55wse7v0rgj">
+    <img alt="Keybase BTC" src="https://img.shields.io/keybase/btc/marcofavorito" />
+  </a>
+  <a href="https://keybase.io/marcofavorito/">
+    <img alt="Keybase ZEC" src="https://img.shields.io/keybase/zec/marcofavorito" />
+  </a>
+  <a href="https://keybase.io/marcofavorito/">
+    <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/marcofavorito" />
+  </a>
 </p>
 
 Nice to meet you :slightly_smiling_face:
