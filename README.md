@@ -13,6 +13,11 @@
   <a href="https://keybase.io/marcofavorito/pgp_keys.asc?fingerprint=d7e224f6596de4d012f335691b17e9636d21c8bf">
     <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/marcofavorito" />
   </a>
+  <a href="https://marcofavorito.github.io/how-to-use-my-pgp-key-cheatsheet">
+     (cheat sheet on how to use it)
+  </a>
+</p>
+<p align="center">
   <a href="bitcoin:bc1qsntnewws350d6gt25wc4sxnzfey55wse7v0rgj">
     <img alt="Keybase BTC" src="https://img.shields.io/keybase/btc/marcofavorito" />
   </a>
