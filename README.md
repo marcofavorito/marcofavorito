@@ -14,7 +14,7 @@
     <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/marcofavorito" />
   </a>
   <a href="https://marcofavorito.github.io/how-to-use-my-pgp-key-cheatsheet">
-     (cheat sheet on how to use it)
+     (cheat sheet)
   </a>
 </p>
 <p align="center">
