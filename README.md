@@ -21,9 +21,13 @@
   <a href="bitcoin:bc1qsntnewws350d6gt25wc4sxnzfey55wse7v0rgj">
     <img alt="Keybase BTC" src="https://img.shields.io/keybase/btc/marcofavorito" />
   </a>
+</p>
+<p align="center">
   <a href="https://keybase.io/marcofavorito/">
     <img alt="Keybase ZEC" src="https://img.shields.io/keybase/zec/marcofavorito" />
   </a>
+</p>
+<p align="center">
   <a href="https://keybase.io/marcofavorito/">
     <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/marcofavorito" />
   </a>
