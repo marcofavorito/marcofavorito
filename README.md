@@ -44,8 +44,13 @@ Nice to meet you :slightly_smiling_face:
 
 
 <p align="center">
-  <img alt="Marco Favorito's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcofavorito&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcofavorito&show_icons=true&include_all_commits=true" alt="Marco's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcofavorito&layout=compact" />
+  <a href="https://github.com/marcofavorito/marcofavorito.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcofavorito&repo=marcofavorito.github.io" />
+  </a>
 </p>
+
 
 <p align="center">
 <a href="https://sourcerer.io/marcofavorito"><img src="https://img.shields.io/badge/Python-1490%20commits-blue.svg" alt=""></a>
@@ -55,6 +60,6 @@ Nice to meet you :slightly_smiling_face:
 
 
 Other links:
-- Sourcerer profile: [![Sourcerer](https://sourcerer.io/icons/logo-sharing.svg)](https://sourcerer.io/marcofavorito)
 - [Profile Summary for GitHub](https://profile-summary-for-github.com/user/marcofavorito)  
 - [GitHub Visualizer](http://ghv.artzub.com/#user=marcofavorito)
+- Sourcerer profile: [![Sourcerer](https://sourcerer.io/icons/logo-sharing.svg)](https://sourcerer.io/marcofavorito)
