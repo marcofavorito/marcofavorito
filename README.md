@@ -32,6 +32,9 @@
     <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/marcofavorito" />
   </a>
 </p>
+<p align="center">
+<noscript><a href="https://liberapay.com/53jk1/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+</p>
 
 Nice to meet you :slightly_smiling_face:
 
