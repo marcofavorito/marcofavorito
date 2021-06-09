@@ -18,8 +18,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="bitcoin:bc1qsntnewws350d6gt25wc4sxnzfey55wse7v0rgj">
+  <a href="https://explorer.btc.com/btc/address/bc1qsntnewws350d6gt25wc4sxnzfey55wse7v0rgj">
     <img alt="Keybase BTC" src="https://img.shields.io/keybase/btc/marcofavorito" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://marcofavorito.eth">
+    <img alt="Keybase BTC" src="https://img.shields.io/badge/eth-marcofavorito.eth-blue" />
   </a>
 </p>
 <p align="center">
